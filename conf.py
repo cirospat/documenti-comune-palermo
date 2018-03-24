@@ -2,12 +2,12 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Regolamento sui beni confiscati del comune di Palermo"
+settings_project_name = "Documenti di interesse ppubblico del comune di Palermo"
 settings_copyright_copyleft = 'comune Palermo'
 settings_editor_name = 'Ciro Spataro'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
-settings_basename = 'regolamento-sui-beni-confiscati-comune-palermo'
+settings_basename = 'documenti-interesse-pubblico-comune-palermo'
 settings_file_name = 'index'
 
 # -- No need to change below here
