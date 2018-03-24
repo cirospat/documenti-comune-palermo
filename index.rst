@@ -6,7 +6,7 @@ Documenti pubblicati dal Comune di Palermo di interesse pubblico
 
 Fonte: `Regolamenti comunali <https://www.comune.palermo.it/regolamenti.php>`_.
 
-Questo portale è il catalogo dei documenti approvati dal comune di Palermo e pubblicati secondo la guida del Team Trasformazione Digitale dell'Agenzia per l'Italia Digitale.
+Catalogo dei documenti approvati dal comune di Palermo e pubblicati secondo la `guida del Team Trasformazione Digitale dell'Agenzia per l'Italia Digitale <http://guida-docs-italia.readthedocs.io/it/latest/>`_.
 
 Vuole essere una modalità di visualizzazione facile di documenti di interesse pubblico. 
 La visualizzazione permette la ricerca di parole chiave nel testo. 
