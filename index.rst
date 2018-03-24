@@ -22,7 +22,7 @@ Catalogo
 .. toctree::
 
    _docs/documentipalermo.rst
-   
+------   
 .. figure:: img/partnership.png
 
    un lavoro reso possibile grazie alla collaborazione tra Comune di Palermo, Team Trasformazione Digitale e Agenzia per l'Italia Digitale
