@@ -10,6 +10,14 @@ http://linee-guida-open-data-comune-palermo.readthedocs.io
 
 |
 
+Regolamento del Consiglio Comunale di Palermo
+---------------------------------------------
+Regolamento del Consiglio Comunale di Palermo
+
+http://regolamento-consiglio-comunale-palermo.readthedocs.io
+
+|
+
 Regolamento sui beni confiscati
 ----------------------------------------------------
 Regolamento per la destinazione e l’utilizzo di beni confiscati alla criminalità organizzata di proprietà del Comune di Palermo.
