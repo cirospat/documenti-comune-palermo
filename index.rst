@@ -8,9 +8,7 @@ Fonte: `Regolamenti comunali <https://www.comune.palermo.it/regolamenti.php>`_.
 
 Catalogo dei documenti approvati dal comune di Palermo e pubblicati secondo la `guida del Team Trasformazione Digitale dell'Agenzia per l'Italia Digitale <http://guida-docs-italia.readthedocs.io/it/latest/>`_.
 
-Vuole essere una modalità di visualizzazione facile di documenti di interesse pubblico. 
-La visualizzazione permette la ricerca di parole chiave nel testo. 
-La visulizzazione delle pubblicazioni del comune di Palermo in questa modalità si adatta al dislay dei dispositivi mobili consentendo un agevole lettura in mobilità. 
+Facile modalità di visualizzazione di documenti di interesse pubblico, che permette la ricerca di parole chiave nel testo e si adatta al dislay dei dispositivi mobili consentendo un agevole lettura in mobilità. 
 
 .. figure:: img/ccbysa.png
 
