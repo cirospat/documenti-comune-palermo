@@ -22,6 +22,7 @@ Catalogo
 .. toctree::
 
    _docs/documentipalermo.rst
+
 ------   
 .. figure:: img/partnership.png
 
