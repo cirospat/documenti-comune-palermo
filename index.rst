@@ -25,4 +25,4 @@ Catalogo
    
 .. figure:: img/partnership.png
 
-   un lavoro reso possibile grazie alla colaborazione tra Comune di Palermo, Team Trasformazione Digitale e Agenzia per l'Italia Digitale
+   un lavoro reso possibile grazie alla collaborazione tra Comune di Palermo, Team Trasformazione Digitale e Agenzia per l'Italia Digitale
