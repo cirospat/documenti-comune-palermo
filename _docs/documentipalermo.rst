@@ -63,3 +63,9 @@ Regolamento delle attività sportive e regolamento della Piscina e dello Stadio 
 Regolamento delle attività sportive del comune di Palermo e regolamento della Piscina e dello Stadio delle Palme
 
 http://regolamento-attivita-sportive-comune-palermo.readthedocs.io
+
+------
+
+.. figure:: img/partnership.png
+
+   un lavoro reso possibile grazie alla collaborazione tra Comune di Palermo, Team Trasformazione Digitale e Agenzia per l'Italia Digitale
