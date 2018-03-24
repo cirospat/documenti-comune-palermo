@@ -1,5 +1,5 @@
 ####################
-Documenti del Comune di Palermo di interesse pubblico
+Catalogo di documenti del Comune di Palermo di interesse pubblico
 ####################
 
 .. figure:: img/palermo.PNG
