@@ -18,6 +18,14 @@ http://regolamento-consiglio-comunale-palermo.readthedocs.io
 
 |
 
+Regolamento sul Decentramento del Comune di Palermo
+-------------------------------------------------
+Regolamento sul Decentramento del Comune di Palermo
+
+http://regolamento-decentramento-comune-palermo.readthedocs.io
+
+|
+
 Regolamento sui beni confiscati
 ----------------------------------------------------
 Regolamento per la destinazione e l’utilizzo di beni confiscati alla criminalità organizzata di proprietà del Comune di Palermo.
