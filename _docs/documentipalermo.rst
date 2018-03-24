@@ -18,9 +18,9 @@ http://regolamento-consiglio-comunale-palermo.readthedocs.io
 
 |
 
-Regolamento sul Decentramento del Comune di Palermo
+Regolamento sul Decentramento comunale
 -------------------------------------------------
-Regolamento sul Decentramento del Comune di Palermo
+Regolamento sul Decentramento comunale
 
 http://regolamento-decentramento-comune-palermo.readthedocs.io
 
