@@ -23,3 +23,4 @@ Catalogo
 
    _docs/documentipalermo.rst
    
+.. figure:: img/partnership.png
