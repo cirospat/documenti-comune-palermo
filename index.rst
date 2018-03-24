@@ -9,9 +9,7 @@ Fonte: `Regolamenti comunali <https://www.comune.palermo.it/regolamenti.php>`_.
 Questo portale è il catalogo dei documenti approvati dal comune di Palermo e pubblicati secondo la guida del Team Trasformazione Digitale dell'Agenzia per l'Italia Digitale.
 
 Vuole essere una modalità di visualizzazione facile di documenti di interesse pubblico. 
-
-La visualizzazione permette la ricerca di parole chiave nel testo.
-
+La visualizzazione permette la ricerca di parole chiave nel testo. 
 La visulizzazione delle pubblicazioni del comune di Palermo in questa modalità si adatta al dislay dei dispositivi mobili consentendo un agevole lettura in mobilità. 
 
 .. figure:: img/ccbysa.png
