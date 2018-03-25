@@ -12,7 +12,7 @@ Facile modalità di visualizzazione di documenti di interesse pubblico, che perm
 
 .. figure:: img/ccby.png
 
-Quest'opera è distribuita con `Licenza CC BY SA 4.0 <https://creativecommons.org/licenses/by/4.0/deed.it>`_ - Creative Commons,  Attribuzione, versione 4.0 Internazionale.
+Quest'opera è distribuita con `Licenza CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/deed.it>`_ - Creative Commons,  Attribuzione, versione 4.0 Internazionale.
 
 |
 
