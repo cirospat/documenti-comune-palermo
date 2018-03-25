@@ -10,9 +10,9 @@ Catalogo dei documenti approvati dal comune di Palermo e pubblicati secondo la `
 
 Facile modalità di visualizzazione di documenti di interesse pubblico, che permette la ricerca di parole chiave nel testo e si adatta al display dei dispositivi mobili consentendo un agevole lettura in mobilità. 
 
-.. figure:: img/ccbysa.png
+.. figure:: img/ccby.png
 
-Quest'opera è distribuita con `Licenza CC BY SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/deed.it>`_ - Creative Commons,  Attribuzione, Condividi allo stesso modo, versione 4.0 Internazionale.
+Quest'opera è distribuita con `Licenza CC BY SA 4.0 <https://creativecommons.org/licenses/by/4.0/deed.it>`_ - Creative Commons,  Attribuzione, versione 4.0 Internazionale.
 
 |
 
